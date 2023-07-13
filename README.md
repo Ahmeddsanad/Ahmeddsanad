@@ -36,3 +36,9 @@
   <a href="https://www.facebook.com/profile.php?id=100009495265588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrhman.shalby.37/" height="30" width="40" /></a>
   <a href="https://twitter.com/ahmeddsanad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmeddsanad" height="30" width="40" /></a>
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Adham20022020&icon=5&color=4)](https://visitcount.itsvg.in)

@@ -2,11 +2,11 @@
   <img align="center" width="400" height="60" src="https://readme-typing-svg.herokuapp.com?duration=4500&height=65&lines=Hello%F0%9F%91%8B%2C+I'm+Ahmed+Sanad;A+passionate+Mobile+developer">
 </p>
 
-- 🌱 I’m currently learning **Flutter & Machine Learning**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 👨‍💻 All of my projects are available at [Repo](https://github.com/ahmeddsanad?tab=repositories)
 
-- 📫 How to reach me **ahmed.hac26@gmail.com**
+- 📫 How to reach me **ahmeddsanad@proton.me**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmeddsanad&theme=dracula)](https://git.io/streak-stats)
 
